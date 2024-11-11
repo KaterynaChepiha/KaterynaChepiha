@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;💠Applied <b>Conditional Formatting</b> to visually emphasize key insights <br> 
 ▶️Outcome: Enabled more informed decision-making for management by providing clear salary data and trends across departments and regions. <br> 
 
-<img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180556.png" width="350" height="180" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180621.png" width="350" height="180" /><img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180710.png" width="350"  height="180" /> 
-<img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180724.png" width="350"  height="180" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180750.png" width="350"  height="180" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180801.png" width="350"  height="180" />
+<img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180556.png" width="400" height="250" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180621.png" width="400" height="250" /><img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180710.png" width="400"  height="250" /> 
+<img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180724.png" width="400"  height="250" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180750.png" width="400"  height="250" /> <img src="https://github.com/KaterynaChepiha/excel_data_analyst/blob/main/Screenshot%202024-11-11%20180801.png" width="400"  height="250" />
  
 - [My Data EXCEL Project](https://github.com/KaterynaChepiha/excel_data_analyst/tree/main)
 
