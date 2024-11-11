@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;💠Enabled stakeholders to explore the data with flexibility <br> 
 ▶️ <b>Outcome</b>: Provided actionable insights that informed strategic decision-making in the gaming industry. <br> 
 
-<img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013349.png" width="500" height="300"/> <img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013405.png" width="500" height="300" />
+<img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013349.png" width="400" height="250"/> <img src="https://github.com/KaterynaChepiha/powerbi_data_analyst/blob/main/Screenshot%202024-10-31%20013405.png" width="400" height="250" />
 
 
 - [My Data POWER BI Project](https://github.com/KaterynaChepiha/powerbi_data_analyst)
@@ -74,10 +74,10 @@ Here are some ideas to get you started:
 ▶️ <b>Outcome</b>: Provided actionable insights for inventory management and sales optimization, enabling data-driven decision-making.<br> 
 
 
-<img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20154257.png" width="500" height="300" /> <img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20160008.png" width="500" height="300" />
+<img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20154257.png" width="400" height="250" /> <img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20160008.png" width="400" height="250" />
 
 
-<img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20162748.png" width="500" height="300" /> <img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20163626.png" width="500" height="300" />
+<img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20162748.png" width="400" height="250" /> <img src="https://github.com/KaterynaChepiha/sql_server_data_analyst/blob/main/Screenshot%202024-11-07%20163626.png" width="400" height="250" />
 
 
 - [My Data SQL SERVER Project](https://github.com/KaterynaChepiha/sql_server_data_analyst/tree/main)
