@@ -81,6 +81,25 @@ Here are some ideas to get you started:
 
 
 - [My Data SQL SERVER Project](https://github.com/KaterynaChepiha/sql_server_data_analyst/tree/main)
+
+<h2>CASE #4</h2> 
+🎮 <b>Role</b>: Data Analyst for a business company <br> 
+▶️ <b>Focus</b>: Analyzing employee data using Power BI, SQL, and Python <br> 
+▶️ <b>Dashboard Included</b>: <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Employee Average Salary by Department <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Employee Count by Department <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Total Salary by Department <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Employee Count by Zip Code <br> 
+▶️ <b>Key Features</b>: <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Integrated SQL for data extraction from company databases <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Used Python for dynamic visualizations and data processing <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;💠 Enabled stakeholders to interact with the data through filters <br> 
+🎯 <b>Outcome</b>: Delivered insights that supported workforce planning and compensation decisions, showcasing the power of combining SQL, Python, and Power BI for effective data analysis and visualization. <br> 
+
+<img src="https://github.com/KaterynaChepiha/python_data_analyst/blob/main/Screenshot%202024-11-12%20233903.png" width="400"/>
+
+
+- [My PYTHON Project](https://github.com/KaterynaChepiha/python_data_analyst)
  
 <h2>🤳Connect with me:</h2> 
 ▶️ <a href="https://www.linkedin.com/in/katerynachepiha/" target="_blank">LinkedIn</a>
